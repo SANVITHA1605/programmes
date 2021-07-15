@@ -1,0 +1,28 @@
+1.start
+2.read num
+3. if num % 2 = 0 then
+      write 'num is even'
+   else
+      write 'num is odd'
+4.stop
+
+to find biggest of two numbers
+
+1.start
+2.read a,b
+3.if (a>b) then
+	write 'a is greater than b'
+  else
+	write 'b is greater than a'
+4.stop
+
+when both are equal
+
+1.start
+2.read a,b
+3.if (a>b) then            
+	write 'a is big'
+4.if (b>a) then          or else      or else if
+	write 'b is big'
+5.if (a==b)              or else      or else
+	'both are equal'
